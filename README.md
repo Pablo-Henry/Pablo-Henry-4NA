@@ -45,9 +45,6 @@ As dependências são bibliotecas e frameworks necessários para o funcionamento
 
 - **Node.js**: Ambiente de execução para JavaScript no lado do servidor.
 - **TypeScript**: Superset de JavaScript que adiciona tipagem estática.
-- **Express**: Framework para construção de aplicações web em Node.js.
-- **Mongoose**: Biblioteca para modelar dados em MongoDB.
-- **jsonwebtoken**: Biblioteca para implementação de autenticação JWT.
 
 ## Análise de Risco
 A análise de risco é fundamental para identificar e mitigar possíveis problemas que possam impactar o projeto. Os principais riscos identificados incluem:
