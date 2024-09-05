@@ -4,4 +4,7 @@
     pkgs.q-text-as-data
     pkgs.gh
   ];
+=======
+    pkgs.gh
+   ];
 }
