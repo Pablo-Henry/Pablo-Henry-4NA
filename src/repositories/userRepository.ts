@@ -4,7 +4,7 @@ import { User } from '../models/userModels';
 
 export class UserRepository {
   private pool: Pool;
-
+ 
   constructor() {
     this.pool = pool;
   }
